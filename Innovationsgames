@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innovations Games</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Innovations Games</h1>
+        <nav>
+            <ul>
+                <li><a href="#education">Educación</a></li>
+                <li><a href="#sports">Sports</a></li>
+                <li><a href="#daily-pass">Pase Diario</a></li>
+                <li><a href="#parental-control">Control Parental</a></li>
+                <li><a href="#about">Sobre Nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="education">
+            <h2>Modo Educación</h2>
+            <p>Resuelve preguntas cada vez más difíciles. Si te equivocas, debes volver a empezar.</p>
+            <!-- Aquí irían los juegos didácticos -->
+        </section>
+        <section id="sports">
+            <h2>Modo Sports</h2>
+            <p>Gana un torneo en vivo sobre cualquier deporte.</p>
+            <!-- Aquí irían los juegos deportivos -->
+        </section>
+        <section id="daily-pass">
+            <h2>Pase Diario</h2>
+            <p>Resuelve puzzles cada vez más difíciles para obtener recompensas diarias.</p>
+            <!-- Aquí irían los puzzles diarios -->
+        </section>
+        <section id="parental-control">
+            <h2>Control Parental</h2>
+            <p>Herramientas de control parental para garantizar una experiencia segura para los niños.</p>
+            <!-- Aquí irían las opciones de control parental -->
+        </section>
+        <section id="about">
+            <h2>Sobre Nosotros</h2>
+            <p>Creadores:</p>
+            <ul>
+                <li>Anthuan Vera Contreras</li>
+                <li>Germán Galindo Altamirano</li>
+                <li>Anghelo Flores Velos</li>
+                <li>Pool Salazar Montalvan</li>
+                <li>Esnaider Espinal Villoslada</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Innovations Games</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
